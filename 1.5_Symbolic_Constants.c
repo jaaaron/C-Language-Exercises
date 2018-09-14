@@ -6,15 +6,15 @@
 /*   By: jaaaron <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/09/14 12:14:25 by jaaaron           #+#    #+#             */
-/*   Updated: 2018/09/14 12:16:48 by jaaaron          ###   ########.fr       */
+/*   Updated: 2018/09/14 12:19:08 by jaaaron          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 
-#define		LOWER 0		/* lower limit of table */
-#define 	UPPER 300	/* upper limit */
-#define		STEP  20	/* step size */
+#define		LOWER	0		/* lower limit of table */
+#define 	UPPER	300		/* upper limit */
+#define		STEP	20		/* step size */
 
 main()
 {
