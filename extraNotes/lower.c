@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* power will take users input and lower case all capital letters */
+/* program will take users input and lower case all capital letters */
 
 main()
 {
